@@ -10,12 +10,16 @@ Eu sou **Ronalty Fernandes**, um desenvolvedor **Front-End** apaixonado por tecn
 
 📫 Como me encontrar:
 
-<a href="[https://www.linkedin.com/in/ronaltyfernandes](https://www.linkedin.com/in/ronalty-fernandes-dos-santos/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="[https://ronaltyfernandes.dev](https://ronaltyfernandes.github.io/portfolio/)">
-  <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-</a>
+<div style="display: flex; gap: 10px; align-items: center;">
+
+  <a href="https://www.linkedin.com/in/ronalty-fernandes-dos-santos/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=000&bg_color=30,FFF,D6DAFF&border_color=FFFFFF&theme=jolly" alt="LinkedIn"/>
+  </a>
+  <a href="https://ronaltyfernandes.github.io/portfolio/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&bg_color=30,FFF,D6DAFF&border_color=FFFFFF&color=000&theme=jolly" alt="Portfólio"/>
+  </a>
+
+</div>
 
 ## 💻 Skills
 
@@ -39,6 +43,10 @@ Eu sou **Ronalty Fernandes**, um desenvolvedor **Front-End** apaixonado por tecn
 [![TypeORM](https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=typeorm&logoColor=fff)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)]()
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)]()
+[![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=fff)]()
 
 ### 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ronaltyfernandes&show_icons=true&theme=tokyonight)
@@ -47,8 +55,3 @@ Eu sou **Ronalty Fernandes**, um desenvolvedor **Front-End** apaixonado por tecn
 
 ### 📌 Créditos
 - Ilustração utilizada neste perfil por [Freepik](https://www.freepik.com/)
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)]()
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)]()
-[![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=fff)]()
