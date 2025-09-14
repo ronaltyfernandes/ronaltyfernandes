@@ -10,16 +10,16 @@
       <br/>💬 Pergunte-me sobre <strong>JavaScript, TypeScript, React, TailwindCSS e Kotlin</strong>  
       <br/>📫 Como me encontrar:  
       <br/>
-      <br></br>
       <a href="https://www.linkedin.com/in/ronaltyfernandes">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://ronaltyfernandes.dev">
         <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
+      <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA" />
     </td>
     <td>
-      <img src="[./cf11e96e-edb0-4ac0-8a49-2a7ceff807d4.png](https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png)" alt="Computador com código" width="300"/>
+      <img src="./cf11e96e-edb0-4ac0-8a49-2a7ceff807d4.png" alt="Computador com código" width="300"/>
     </td>
   </tr>
 </table>
@@ -39,3 +39,8 @@
 
 ### 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ronaltyfernandes&show_icons=true&theme=tokyonight)
+
+---
+
+### 📌 Créditos
+- Ilustração utilizada neste perfil por [Freepik](https://www.freepik.com/)
