@@ -1,17 +1,17 @@
-## Hi there 👋
+## Olá, tudo bem? 👋
 
-I'm **Ronalty Fernandes**, a passionate **Front-End Developer** who loves building modern and responsive applications. 🚀  
+Eu sou **Ronalty Fernandes**, um desenvolvedor **Front-End** apaixonado por tecnologia e por criar aplicações modernas e responsivas. 🚀  
 
-- 🔭 I’m currently working with **React, TypeScript, MUI and TailwindCSS**  
-- 🌱 I’m currently learning **Kotlin** and **Android Development**  
-- 👯 I’m looking to collaborate on open-source projects  
-- 💬 Ask me about **JavaScript, TypeScript, React, TailwindCSS and Kotlin**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronaltyfernandes) | [Portfolio](https://ronaltyfernandes.dev)  
-- ⚡ Fun fact: I’m passionate about **technology and problem-solving**  
+- 🔭 Atualmente estou trabalhando com **React, TypeScript, MUI e TailwindCSS**  
+- 🌱 No momento estou aprendendo **Kotlin** e **desenvolvimento Android**  
+- 👯 Estou aberto a colaborar em projetos **open-source**  
+- 💬 Pergunte-me sobre **JavaScript, TypeScript, React, TailwindCSS e Kotlin**  
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ronaltyfernandes) | [Portfólio](https://ronaltyfernandes.dev)  
+- ⚡ Curiosidade: Sou apaixonado por **resolver problemas e aprender coisas novas**  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -22,5 +22,5 @@ I'm **Ronalty Fernandes**, a passionate **Front-End Developer** who loves buildi
 
 ---
 
-### 📊 GitHub Stats
-![Ronalty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaltyfernandes&show_icons=true&theme=tokyonight)
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ronaltyfernandes&show_icons=true&theme=tokyonight)
