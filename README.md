@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA" />
     </td>
     <td>
-      <img src="./cf11e96e-edb0-4ac0-8a49-2a7ceff807d4.png" alt="Computador com código" width="300"/>
+      <img src="./pcImage.png" alt="Computador com código" width="300"/>
     </td>
   </tr>
 </table>
