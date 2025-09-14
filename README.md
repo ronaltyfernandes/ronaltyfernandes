@@ -6,7 +6,11 @@ Eu sou **Ronalty Fernandes**, um desenvolvedor **Front-End** apaixonado por tecn
 - 🌱 No momento estou aprendendo **Kotlin** e **desenvolvimento Android**  
 - 👯 Estou aberto a colaborar em projetos **open-source**  
 - 💬 Pergunte-me sobre **JavaScript, TypeScript, React, TailwindCSS e Kotlin**  
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ronaltyfernandes) | [Portfólio](https://ronaltyfernandes.dev)  
+- 📫 Como me encontrar:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaltyfernandes)  
+  [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ronaltyfernandes.dev)  
+  ![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA)  
+
 - ⚡ Curiosidade: Sou apaixonado por **resolver problemas e aprender coisas novas**  
 
 ---
